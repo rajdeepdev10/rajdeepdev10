@@ -8,4 +8,4 @@
 - 💬 Ask me about Tottenham Hotspur's road to 2019 Champions league final :soccer:
 - 📫 How to reach me: You can contact me at my email: rajdeepdev10@gmail.com
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I've learnt A2 level French entirely from using online resources
+- ⚡ Fun fact: I've learnt A2 level French (sort of) entirely from using online resources
