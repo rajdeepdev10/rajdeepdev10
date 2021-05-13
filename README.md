@@ -2,7 +2,7 @@
 
 
 - 🎓 I’m a 3rd year Chemical Engineering student from The University of British Columbia
-- 🌱 I’m currently learning MERN Stack primarily from freeCodeCamp's curriculam
+- 🌱 I’m currently learning MongoDB, Express, and Node primarily from freeCodeCamp's curriculam
 - 👯 I’m looking to collaborate on any open source projects
 - 🤔 I’m looking for help with coding interview preparation
 - 💬 Ask me about Tottenham Hotspur's road to 2019 Champions league final :soccer:
